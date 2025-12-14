@@ -10,4 +10,4 @@ JDBC-Configured Task Scheduler
   Role/Contribution: 
 	- Modeled the task_config and task_log tables for configuration and auditing. 
 	- Implemented JDBC methods for securely reading schedules (SELECT) and writing execution logs (INSERT). 
-	- Ensured resource efficiency by applying Try-with-Resources to all JDBC objects
+	- Ensured resource efficiency by applying Try-with-Resources to all JDBC objects.
